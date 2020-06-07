@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TestConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=PARADISE;Initial Catalog=Test;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=PARADISE;Initial Catalog=Test;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ConnectionStringTest" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Dsn=TEST.DBF;dbq=D:\АЛЕКСЕЙ\C#\REPOS2\WINDOWSFORMSAPP1\WINDOWSFORMSAPP1\BIN\DEBUG;defaultdir=D:\АЛЕКСЕЙ\C#\REPOS2\WINDOWSFORMSAPP1\WINDOWSFORMSAPP1\BIN\DEBUG;driverid=533;fil=dBase 5.0;maxbuffersize=2048;pagetimeout=5&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.Odbc&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Dsn=TEST.DBF;dbq=D:\АЛЕКСЕЙ\C#\REPOS2\WINDOWSFORMSAPP1\WINDOWSFORMSAPP1\BIN\DEBUG;defaultdir=D:\АЛЕКСЕЙ\C#\REPOS2\WINDOWSFORMSAPP1\WINDOWSFORMSAPP1\BIN\DEBUG;driverid=533;fil=dBase 5.0;maxbuffersize=2048;pagetimeout=5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
